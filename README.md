@@ -1,4 +1,5 @@
 # SMO-algorithm-for-SVM
+SMO-SVM algorithm to predict alphabet DU data.
 ## Preporcessing
 First, change the directory to the directory you put the training and testing file. <br />
 ![image](/readme_img/p01.png)<br />
