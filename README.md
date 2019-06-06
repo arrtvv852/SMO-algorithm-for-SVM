@@ -1,7 +1,7 @@
 # SMO-algorithm-for-SVM
 ## Preporcessing
 First, change the directory to the directory you put the training and testing file. 
-![image]()
+![image](/readme_photo/p01.PNG)
 ## Parameter setting
 Run the python program and you will see these: 
 ![image]()
